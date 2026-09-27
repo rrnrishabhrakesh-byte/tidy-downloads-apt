@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Tidy Downloads
+Label: Tidy Downloads
+Suite: stable
+Codename: stable
+Architectures: all
+Components: main
+Description: Tidy Downloads APT Repository
+Date: Sun, 27 Sep 2026 22:21:29 +0000
+MD5Sum:
+ 9c367917e5c153e3f5646f5db99edc5b              193 Release
+ d129f654995ded436f11bfcf1f7c94b8              592 main/binary-all/Packages
+ f504215d6529fda70ea565e3cc6c2707              429 main/binary-all/Packages.gz
+SHA1:
+ 02df701e8250df0ff56ea69f6b2b0f576e76f3ba              193 Release
+ de07745dbc643eaeb19b0356bddc45a11d42f840              592 main/binary-all/Packages
+ 695d0b382fed99dbd87e26ff4d897b6ee9be0799              429 main/binary-all/Packages.gz
+SHA256:
+ 54c009f7a85259601a98018ac856122f4202d8abe977eafdd9820816a9b0ac41              193 Release
+ c8d6a1377c7eed8d491bcea790d20b28941cd3839cb10a0de1fe875378ba65e2              592 main/binary-all/Packages
+ cfd88bb719944d922991bcfb4903f29fc161729dffcb4c282ebb7395887fe082              429 main/binary-all/Packages.gz
+SHA512:
+ c57d4078c4f77e2446dddb44802b8e0d8975f97bc9a685131c53c9b0eb49d8a7bddfbb46e0c3f3511ee3bd870e7da1cee6e279eb29ffe37e57eae50666af490a              193 Release
+ a1bf75eace1cc8fd2d6aedfaf022a9d4abd678a31eb189002818ef5693bd92a12243baa48c5c2c6842f85a2ca61eee08d4ab9b5234d2e8fe6b95cf15c0f6b40f              592 main/binary-all/Packages
+ 5ce39cfba6f6a66461ee273fd94374a820016a151b05b366485fa65d05eb5a46571d2c161c2c5e51d473f53e791c242d688341155e16739ebf7da25431dde9be              429 main/binary-all/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEENGIn3HSnFFNk643u1G/5RR3UgmsFAmq5l2oACgkQ1G/5RR3U
+gmsNFA//SeSsJB5Fe8eWWAWNLk/LQydo4T2TOcTGsJV7Qw0Lbulg5fZwkXbiGMSD
+C3EV+MqLHN9WeiaKgJJdlroCvj0q8FjUYHNyFdTS5YfQTQ0ZEiauzXRyBknzekQe
+MrTOe3F2yTHRBNG/lyegIUk49+qEZLyBVMTpn9hg0KQUkLGNIKtsExj3EpSQ3bkT
++powVBevB5MO/772E/EeGRRHFwaS+k5tfVaUy9dfWwMduBj5WWARG5QaevYjyTsT
+5rmkglPyYc6cK5hRnB1rrBliNhPT/z4UFbbST2MHKvYQIXTu2oHatjKJ9afPrLgC
+ZaQeoET0FSSs6zuL6mZ+/Jw8/BWLf2FJ/LyhVA8mWCHnbDBxi4OFRNVLFw9wxdRa
+gI/4CcjNM+NwOOtI+SvOrGq3rRz9gLdec+5XcSHLu2582Ra2q3DBE6EkPjfGrHrM
+NHhtfnxSVnsdT20VwyWvuLxVFS0FUsxB0kDANUVdlaN9QbN1RKZHWvSZQxFjPcm4
+B8jgPWQ9DFbCwjQ3Ya0Tc7Ch8PcnmeuFFSskEMe52hAmudxI1U5xIXdQWz+rACTk
+PDXQ/WAm9hkhZBnBg+q38JEfo+zPZQstuZtNeNM81nk6ijfi0R/W1Xn0ictmvDZK
+cPxZM7z5VqVuaKktIDLWTSIA8DTlyRAjtd6ArjnMubX79jAW9hI=
+=0MjO
+-----END PGP SIGNATURE-----

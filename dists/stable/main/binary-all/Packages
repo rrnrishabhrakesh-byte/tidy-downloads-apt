@@ -1,0 +1,17 @@
+Package: tidy-downloads
+Version: 1.0.0-1
+Architecture: all
+Maintainer: Rishi <rishab@localhost>
+Installed-Size: 15
+Depends: python3
+Filename: pool/main/t/tidy-downloads/tidy-downloads_1.0.0-1_all.deb
+Size: 2614
+MD5sum: 36a3e7c740245876541bf3e765e0c8ba
+SHA1: c2bea8b74188fefafd906b8c6cd36d4ecd36c4e5
+SHA256: 8f7b01e2b3baaeefa971a2a4b3a7344fb395b774b501e93807d7269580134222
+Section: utils
+Priority: optional
+Description: Automatically organize downloaded files
+ Tidy Downloads automatically sorts files into categories such as
+ Images, Videos, Documents, Audio, Archives, Folders, and Others.
+
